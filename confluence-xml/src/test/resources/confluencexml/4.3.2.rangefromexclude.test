@@ -1182,9 +1182,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -1226,9 +1226,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 
@@ -1491,9 +1491,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -1535,9 +1535,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 
@@ -1800,9 +1800,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -1844,9 +1844,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 
@@ -2109,9 +2109,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -2153,9 +2153,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 
@@ -2418,9 +2418,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -2462,9 +2462,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 
@@ -2727,9 +2727,9 @@ content of info macro
 
 {{network 0="following"/}}
 
-{{note title="Optional Title of the macro"}}
+{{info title="Optional Title of the macro"}}
 content of the macro
-{{/note}}
+{{/info}}
 
 3 macros named: excel macro, powerpoint macro and word macro
 
@@ -2771,9 +2771,9 @@ content of the macro
 
 {{recently-updated-dashboard/}}
 
-{{tip title="tip title"}}
+{{info title="tip title"}}
 tip content
-{{/tip}}
+{{/info}}
 
 {{profile user="admin"/}}
 

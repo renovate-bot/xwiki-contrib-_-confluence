@@ -153,6 +153,18 @@ project starts 2022-06-01
 Hello
 {{/box}}
 
+{{info title="My title"}}
+Hello tip
+{{/info}}
+
+{{info title="My title"}}
+Hello note
+{{/info}}
+
+{{info title="My title"}}
+Hello info
+{{/info}}
+
 {{tagcloud space="MySpace"/}}</string>
               </entry>
               <entry>

@@ -128,6 +128,24 @@ project starts 2022-06-01
     <p>Hello</p>
   </ac:rich-text-body>
 </ac:structured-macro>
+<ac:structured-macro ac:name="tip">
+  <ac:parameter ac:name="title">My title</ac:parameter>
+  <ac:rich-text-body>
+    <p>Hello tip</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<ac:structured-macro ac:name="note">
+  <ac:parameter ac:name="title">My title</ac:parameter>
+  <ac:rich-text-body>
+    <p>Hello note</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<ac:structured-macro ac:name="info">
+  <ac:parameter ac:name="title">My title</ac:parameter>
+  <ac:rich-text-body>
+    <p>Hello info</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
 <p><ac:structured-macro ac:name="popular-labels"><ac:parameter ac:name="spaceKey">MySpace</ac:parameter></ac:structured-macro></p>]]></property>
         <property name="bodyType">2</property>
         <property name="content" class="ContentEntityObject" package="com.atlassian.confluence.core">

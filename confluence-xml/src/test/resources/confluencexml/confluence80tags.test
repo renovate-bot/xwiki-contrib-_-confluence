@@ -98,9 +98,9 @@
               <string>{{layout}}
 {{layout-section ac:type="single"}}
 {{layout-cell}}
-{{tip}}
+{{info}}
 Welcome to your first space. Go ahead, edit and customize this home page any way you like. We've added some sample content to get you started.
-{{/tip}}
+{{/info}}
 {{/layout-cell}}
 {{/layout-section}}
 
