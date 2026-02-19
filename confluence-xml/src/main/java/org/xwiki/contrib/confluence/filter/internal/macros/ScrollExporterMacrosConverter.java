@@ -37,7 +37,7 @@ import org.xwiki.contrib.confluence.filter.ConversionException;
 @Component(hints = {
     "scroll-ignore", "scroll-indexterm", "scroll-only", "scroll-pagetitle", "scroll-pdf-ignore", "scroll-title",
     "scroll-pdf-only", "scroll-bookmark", "scroll-ignore-inline", "scroll-exportbutton", "scroll-only-inline",
-    "scroll-pdf-ignore-inline", "scroll-content-block", "scroll-landscape", "scroll-portrait",
+    "scroll-pdf-ignore-inline", "scroll-pdf-only-inline", "scroll-content-block", "scroll-landscape", "scroll-portrait",
     "scroll-pagebreak", "scroll-tablelayout"
 })
 public class ScrollExporterMacrosConverter extends AbstractMacroConverter
